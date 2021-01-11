@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/ghostjammers/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ghostjammers/static/js/main.c1503fbc.chunk.js",
-    "main.js.map": "/ghostjammers/static/js/main.c1503fbc.chunk.js.map",
+    "main.js": "/ghostjammers/static/js/main.bc79e6d1.chunk.js",
+    "main.js.map": "/ghostjammers/static/js/main.bc79e6d1.chunk.js.map",
     "runtime-main.js": "/ghostjammers/static/js/runtime-main.aa615cb0.js",
     "runtime-main.js.map": "/ghostjammers/static/js/runtime-main.aa615cb0.js.map",
-    "static/js/2.4432e5bc.chunk.js": "/ghostjammers/static/js/2.4432e5bc.chunk.js",
-    "static/js/2.4432e5bc.chunk.js.map": "/ghostjammers/static/js/2.4432e5bc.chunk.js.map",
+    "static/js/2.464d7e6a.chunk.js": "/ghostjammers/static/js/2.464d7e6a.chunk.js",
+    "static/js/2.464d7e6a.chunk.js.map": "/ghostjammers/static/js/2.464d7e6a.chunk.js.map",
     "static/js/3.0407ce39.chunk.js": "/ghostjammers/static/js/3.0407ce39.chunk.js",
     "static/js/3.0407ce39.chunk.js.map": "/ghostjammers/static/js/3.0407ce39.chunk.js.map",
     "index.html": "/ghostjammers/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/ghostjammers/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4432e5bc.chunk.js.LICENSE.txt": "/ghostjammers/static/js/2.4432e5bc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ghostjammers/static/media/logo.6ce24c58.svg"
+    "static/js/2.464d7e6a.chunk.js.LICENSE.txt": "/ghostjammers/static/js/2.464d7e6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa615cb0.js",
-    "static/js/2.4432e5bc.chunk.js",
+    "static/js/2.464d7e6a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c1503fbc.chunk.js"
+    "static/js/main.bc79e6d1.chunk.js"
   ]
 }
